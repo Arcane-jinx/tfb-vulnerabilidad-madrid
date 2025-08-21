@@ -5,3 +5,9 @@ __pycache__/
 .env
 # Si NO quieres subir modelos pesados, descomenta:
 #*.pkl
+
+# Ignorar artefactos de Colab
+.config/
+.gradio/
+'sample_data/'
+
