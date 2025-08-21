@@ -1,0 +1,7 @@
+# Colab / Python
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.env
+# Si NO quieres subir modelos pesados, descomenta:
+#*.pkl
